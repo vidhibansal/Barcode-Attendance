@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229504286775",
+    "firebase_url": "https://acadly-f4c99.firebaseio.com",
+    "project_id": "acadly-f4c99",
+    "storage_bucket": "acadly-f4c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229504286775:android:1f379512c8943cbc",
+        "android_client_info": {
+          "package_name": "com.example.acadly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229504286775-fvkru67l0cvj3oeniag976i1gktkip6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acadly",
+            "certificate_hash": "d69cee64754286e44764def1e24a4c3c064e16e8"
+          }
+        },
+        {
+          "client_id": "229504286775-tp94atsfaj4pht1mupb3ld0pa0f8dvq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwe5T0aTjt0NXBhxTQqPkUonQDujr0RbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229504286775-tp94atsfaj4pht1mupb3ld0pa0f8dvq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
